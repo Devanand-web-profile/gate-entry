@@ -1,0 +1,22 @@
+ 
+    body
+    {
+        height: 100vh;
+    }
+    .form-control
+    {
+      width: 300px;
+    }
+    .form-select
+    {
+      width: 300px;
+    }
+    .card
+    {
+      padding: 5px;
+    }
+    
+    .login-bar
+    {
+      width: 100%;
+    }
